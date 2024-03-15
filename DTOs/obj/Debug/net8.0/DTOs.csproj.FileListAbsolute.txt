@@ -1,0 +1,15 @@
+D:\WinForm App\CafeManagment\DTOs\bin\Debug\net8.0\DTOs.deps.json
+D:\WinForm App\CafeManagment\DTOs\bin\Debug\net8.0\DTOs.dll
+D:\WinForm App\CafeManagment\DTOs\bin\Debug\net8.0\DTOs.pdb
+D:\WinForm App\CafeManagment\DTOs\bin\Debug\net8.0\DataAccess.dll
+D:\WinForm App\CafeManagment\DTOs\bin\Debug\net8.0\DataAccess.pdb
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\DTOs.csproj.CopyComplete
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\DTOs.dll
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\DTOs.pdb
+D:\WinForm App\CafeManagment\DTOs\obj\Debug\net8.0\ref\DTOs.dll
